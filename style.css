@@ -1,0 +1,21 @@
+body {
+  margin-top: 100px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: libre;
+}
+#heading {
+    font-size: 3rem;
+  text-transform: uppercase;
+}
+#text {
+  font-size: 40px;
+  padding: 20px;
+}
+.img{
+    width: 70%;
+    border: 5px solid white;
+    
+}
+
